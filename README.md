@@ -1,5 +1,5 @@
 # IansProductList
-A very simple ASP.NET Core application which demonstrates routing and slug links.
+A very simple ASP.NET Core application which demonstrates routing and slug links while using a mock "Products" database.
 
 HOW TO RUN:
 - This solution comes with a mock database.  
